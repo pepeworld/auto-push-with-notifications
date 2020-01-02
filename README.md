@@ -1,5 +1,5 @@
 # About
-Hooks for windows 10 to automatically pushe the **entire** repository to remote upon commit.
+[Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) for windows 10 to automatically push the **entire** repository to remote upon commit.
 Shows notifications of the pushing progress.
 
 # Requirements
