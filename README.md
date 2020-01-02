@@ -7,6 +7,9 @@ Shows notifications of the pushing progress.
 * Python 3
 * [Windows 10 Tost Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications)
 
+# Consideration
+If you already know and have utilized the post-commit hook in your repo, then be aware that this will implementation will overwrite the current one.
+
 # Installation
 * copy [hooks](https://github.com/pepeworld/auto-push-with-notifications/tree/master/hooks) folder to inside .git in your repository.
 
