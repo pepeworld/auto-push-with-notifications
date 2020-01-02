@@ -1,0 +1,6 @@
+#!/bin/sh
+python .git/hooks/commands/gitnotify.py --prepush
+
+git push
+
+python .git/hooks/commands/gitnotify.py --postreceive
