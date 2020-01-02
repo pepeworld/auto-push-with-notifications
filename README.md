@@ -1,5 +1,5 @@
 # About
-Hooks for windows 10 to automatically pushee the **entire** repository to remote upon commit.
+Hooks for windows 10 to automatically pushe the **entire** repository to remote upon commit.
 Shows notifications of the pushing progress.
 
 # Requirements
